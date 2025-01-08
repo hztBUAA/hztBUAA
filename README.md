@@ -25,7 +25,7 @@ Welcome!
 
 ## 📫 联系方式(Contacts)
 - 邮箱(Email): 3061613175@qq.com
-- 博客: [个人网站链接](https://hztbuaa.github.io/buaa-hzt-app/)
+- 博客: [个人网站链接](https://hztbuaa.github.io/buaa-hzt-app/#/about/)
 
 ## 📈 GitHub 统计
 ![hztBUAA's stats](https://github-readme-stats.vercel.app/api?username=hztBUAA&show_icons=true&bg_color=00000000)
