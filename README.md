@@ -1,34 +1,17 @@
-## Hi there 👋
+# Hi there, I'm BUAA_hzt（Zhenting Huang） 👋  
 
-<!--
-**hztBUAA/hztBUAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack  
+- ​**Languages**: Python, JavaScript, C++  
+- ​**Specialties**: Large Language Models (LLM), Natural Language Processing (NLP)  
+- ​**Tools**: Git, Docker, PyTorch  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 你好，我是 BUAA_hzt 👋
+## 📬 Let's Connect  
+- 📧 Email: [3061613175@qq.com](mailto:3061613175@qq.com)  
+- 🌐 Blog: [Explore my writings](https://hztbuaa.github.io/buaa-hzt-app/#/about/)  
 
-欢迎访问我的 GitHub 主页！
-Welcome!
+## 📊 Coding Activity  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hztBUAA&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
 
-## 🛠 技能栈(Skills)
-- python、js、cpp.
-- LLM, NLP.
-
-## 📫 联系方式(Contacts)
-- 邮箱(Email): 3061613175@qq.com
-- 博客: [个人网站链接](https://hztbuaa.github.io/buaa-hzt-app/#/about/)
-
-## 📈 GitHub 统计
-![hztBUAA's stats](https://github-readme-stats.vercel.app/api?username=hztBUAA&show_icons=true&bg_color=00000000)
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hztBUAA&layout=compact&theme=radical&hide_border=true&bg_color=00000000)
