@@ -8,8 +8,9 @@ Welcome to my GitHub profile!
 - ​**Tools**: Git, Docker, PyTorch  
 
 ## 📬 Let's Connect  
-- 📧 Email: [3061613175@qq.com](mailto:3061613175@qq.com)  
-- 🌐 Blog: [Explore my writings](https://hztbuaa.github.io/buaa-hzt-app/#/about/)  
+- 📧 Email: [3061613175@qq.com](mailto:3061613175@qq.com)
+- 💁 My personal website(with a lot of widgets hhh): [Explore 🐸	](https://cosmic-byte-canvas.lovable.app/)
+- 🌐 A demo app based on vue: [Explore 🐱](https://hztbuaa.github.io/buaa-hzt-app/#/about/)  
 
 ## 📊 Coding Activity  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hztBUAA&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
