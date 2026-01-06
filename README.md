@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 ## 📬 Let's Connect  
 - 📧 Email: [3061613175@qq.com](mailto:3061613175@qq.com)
-- 💁 My personal website(with a lot of widgets hhh): [Explore 🐸	](zhentinghng.com)
+- 💁 My personal website(with a lot of widgets hhh): [Explore 🐸	](https://zhentinghng.com)
 - 🌐 A demo app based on vue: [Explore 🐱](https://hztbuaa.github.io/buaa-hzt-app/#/about/)  
 
 ## 📊 Coding Activity  
